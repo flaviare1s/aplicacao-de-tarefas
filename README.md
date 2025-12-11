@@ -1,6 +1,6 @@
 # Aplicação de Tarefas
 
-Uma aplicação moderna de gerenciamento de tarefas desenvolvida com React, Vite e Context API.
+Uma aplicação de gerenciamento de tarefas desenvolvida com React, Vite e Context API.
 
 ## Sobre o Projeto
 
