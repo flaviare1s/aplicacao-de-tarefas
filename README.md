@@ -1,6 +1,23 @@
+<div align="center">
+
 # Aplicação de Tarefas
 
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
+
 Uma aplicação de gerenciamento de tarefas desenvolvida com React, Vite e Context API.
+
+[![Deploy](https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aplicacao-de-tarefas.vercel.app/)
+
+### Tecnologias
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
 
 ## Sobre o Projeto
 
@@ -26,6 +43,10 @@ Este projeto foi desenvolvido como projeto da certificação 2 da trilha 3 do DE
 - **React Hot Toast** - Notificações elegantes
 - **React Icons** - Biblioteca de ícones
 - **LocalStorage** - Persistência de dados
+
+## Deploy
+
+A aplicação está disponível online: [https://aplicacao-de-tarefas.vercel.app/](https://aplicacao-de-tarefas.vercel.app/)
 
 ## Como Executar
 
